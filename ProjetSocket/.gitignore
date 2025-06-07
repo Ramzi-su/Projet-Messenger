@@ -1,0 +1,21 @@
+# Dossiers à ignorer
+build/
+nbproject/
+out/
+target/
+
+# Fichiers générés
+build.xml
+.project
+manifest.mf
+*.jar
+*.log
+
+# Fichier de configuration sensible
+config.properties
+
+# NetBeans/Eclipse/IDEA
+*.iml
+.idea/
+.settings/
+nbproject/private/
