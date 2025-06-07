@@ -45,7 +45,7 @@ Ce projet est construit sur un modèle client-serveur avec une base de données 
 ### 🛠️ Étapes
 
 1. Cloner le dépôt :
-   git clone https://github.com/<TON-UTILISATEUR>/Projet-Messenger.git
+   git clone https://github.com/Ramzi-su/Projet-Messenger.git
 
 2. Importer le projet dans NetBeans
 
